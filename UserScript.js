@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         自动刷MS Rewards
+// @namespace    https://github.com/JacobHu0723/Earn-MS-Rewards
 // @description  自动刷Microsoft Rewards
-// @icon         https://github.com/JacobHu0723/Earn-MS-Rewards/blob/master/Jewards.png
-// @version      0.4
+// @icon         https://github.com/JacobHu0723/Earn-MS-Rewards/blob/master/Jewards.png?raw=true
+// @version      0.4.1
 // @author       Jacob Hu
 // @match        https://cn.bing.com/*
 // @grant        none
